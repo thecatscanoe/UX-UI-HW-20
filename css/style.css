@@ -1,0 +1,46 @@
+.jumbotron{
+  background: url(../images/bigbonesjumbo.png);
+  background-position: center;
+  background-size: cover;
+  height: 10;}
+
+.display-4{
+  color: #ffffff;
+  text-align: center;
+}
+
+
+body{
+  background-color: #6C6D65;
+}
+section{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card{
+  background-color: #c4c4c4;
+  width: 40%;
+  margin: 20px;
+  border-color:black;}
+  
+
+.dogcrop{ width: 400px;
+  float: right; }
+
+.moblehifi1{ float: right;
+}
+
+.needtoknow{ float: right;
+width: 400px;
+}
+
+.tentdog{ float:right;
+width: 400px;}
+
+.cardtitle{
+  font-style: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 400px;
+}
+
